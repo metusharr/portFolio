@@ -6,6 +6,8 @@ import { FaReact } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
 import { IoLogoHtml5 } from "react-icons/io5";
 import { IoLogoCss3 } from "react-icons/io";
+import { FaGithub } from "react-icons/fa";
+
 
 import { ReactTyped } from "react-typed";
 
@@ -56,6 +58,8 @@ function home() {
                   <li> <a href="https://www.facebook.com/" target='_blank'><FaSquareFacebook className='text-2xl cursor-pointer'/></a></li>
                   <li> <a href="https://www.linkedin.com/feed/" target='_blank'><FaLinkedin   className='text-2xl cursor-pointer'/></a></li>
                   <li> <a href="https://www.instagram.com/accounts/login/?hl=en" target='_blank'><FaSquareInstagram   className='text-2xl cursor-pointer'/></a></li>
+                  <li> <a href="https://github.com/metusharr" target='_blank'><FaGithub    className='text-2xl cursor-pointer'/></a></li>
+
                 </ul>
 
               </h1>
