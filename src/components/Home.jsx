@@ -11,7 +11,7 @@ import { FaGithub } from "react-icons/fa";
 
 import { ReactTyped } from "react-typed";
 
-import pic from "../../public/tuhsar3.jpg"
+import pic from "../../public/tushar4.jpg"
 
 
 
